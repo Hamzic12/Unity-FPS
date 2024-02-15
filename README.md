@@ -7,8 +7,8 @@
 ## Features
 
 - Basic movement
-- shooting
-    - impact and muzzle flash
+- Shooting
+    - Pistol with impact, impact animation and muzzle flash
 - To spawn an enemy press:
     - "L" to spawn large slower enemies
     - "M" to spawn medium faster enemies
